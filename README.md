@@ -10,5 +10,5 @@ yarn dev
 yarn build
 
 
-|—— composables // vueuse vue 组合实用程序的集合 https://vueuse.org/  
-|  |—— dark.ts // 使用黑暗模式
+|-- composables // vueuse vue 组合实用程序的集合 https://vueuse.org/  
+|  |-- dark.ts // 使用黑暗模式
