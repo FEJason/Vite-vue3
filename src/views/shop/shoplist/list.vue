@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script lang="ts" setup>
 import { ref, onMounted, getCurrentInstance } from 'vue'
 import type { FormInstance } from 'element-plus'
 const ruleFormRef = ref<FormInstance>()
